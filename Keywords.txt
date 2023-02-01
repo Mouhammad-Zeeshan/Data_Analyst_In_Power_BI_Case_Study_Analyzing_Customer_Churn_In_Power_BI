@@ -1,0 +1,14 @@
+Case Study - Analyzing Coustomer Churn In Power BI.
+
+1. Data analysis flow in power BI.
+
+i) Data check.
+ii) Explore data.
+iii). Analyze and Visualize data,.
+iv) Dashboarding.
+v) Communicate Insight.
+
+2) Switch Function in DAX
+
+## CREATING STORY:
+1. 
